@@ -1,0 +1,11 @@
+# Sensitive
+.env
+codex_deepseek_proxy/.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+proxy_debug.log
+# OS
+Thumbs.db
+.DS_Store
