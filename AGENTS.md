@@ -26,6 +26,9 @@ Run `切换模型.bat` to choose between:
 2. `deepseek-v4-pro` (proxy)
 3. `ZhipuAI/GLM-5.1` (ModelScope, direct)
 4. `ZhipuAI/GLM-4.7-Flash` (ModelScope, direct)
+5. `MiniMax/MiniMax-M2.7` (ModelScope, direct)
+6. `moonshotai/Kimi-K2.5` (ModelScope, direct)
+7. `Qwen/Qwen3.5-35B-A3B` (ModelScope, direct)
 
 ModelScope mode requires `MODELSCOPE_API_KEY` env var (ms-...); DeepSeek mode requires `DEEPSEEK_API_KEY` env var (sk-...). Both are persisted in `.env` files and set by the switcher.
 
